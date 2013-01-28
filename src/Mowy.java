@@ -6,7 +6,7 @@
  * http://joinup.ec.europa.eu/software/page/eupl/licence-eupl
  *
  * Kod źródłowy programu można pobrać pod adresem
- *
+ * https://github.com/Chocimier/Haraldzie-szachy
  */
 
 import java.io.IOException;

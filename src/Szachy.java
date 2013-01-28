@@ -6,7 +6,7 @@
  * http://joinup.ec.europa.eu/software/page/eupl/licence-eupl
  *
  * Kod źródłowy programu można pobrać pod adresem
- *
+ * https://github.com/Chocimier/Haraldzie-szachy
  */
 
 import java.io.IOException;
@@ -81,7 +81,7 @@ public class Szachy extends MIDlet implements Runnable, CommandListener, Discove
         zbite.setCommandListener(this);
 
         pomoc = new Form(_("Pomoc, O programie"));
-        pomoc.append("Aby promować pion, należy ustawić go w ostatniej linii, wskazać i wybrać pozycję  „promocja” z menu.\n  *  *  *  \nHaraldzie szachy\nPrawa autorskie (C) 2013 Piotr Wójcik\nProgram jest objęty Licencją publiczną Unii Europejskiej (EUPL) w wersji dokładnie 1.1, dostępnej pod adresem http://joinup.ec.europa.eu/software/page/eupl/licence-eupl. Kod źródłowy programu można pobrać pod adresem");
+        pomoc.append("Aby promować pion, należy ustawić go w ostatniej linii, wskazać i wybrać pozycję  „promocja” z menu.\n  *  *  *  \nHaraldzie szachy\nPrawa autorskie (C) 2013 Piotr Wójcik\nProgram jest objęty Licencją publiczną Unii Europejskiej (EUPL) w wersji dokładnie 1.1, dostępnej pod adresem http://joinup.ec.europa.eu/software/page/eupl/licence-eupl. Kod źródłowy programu można pobrać pod adresem https://github.com/Chocimier/Haraldzie-szachy");
         pomoc.addCommand(polWstecz);
         pomoc.setCommandListener(this);
 
