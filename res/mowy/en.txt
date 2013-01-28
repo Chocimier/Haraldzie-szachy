@@ -1,0 +1,65 @@
+Wybierz
+Select
+
+Szukaj
+Search
+
+Warcaby
+Checkers
+
+Szachy
+Chess
+
+Promuj
+Promote
+
+Wstecz
+Back
+
+Menu główne
+Main menu
+
+Wstrząsaj
+Vibrate
+
+Nie wstrząsaj
+Don't vibrate
+
+Wyjście
+Exit
+
+Obejrzyj zbite
+Show captured
+
+Wycofaj ruch
+Move back
+
+Menu
+Menu
+
+Nowa gra na 1 telefonie
+New 1-phone game
+
+Założenie gry niebieskim zębem
+Establish bluetooth game
+
+Dołączenie do gry niebieskim zębem
+Join bluetooth game
+
+Ciąg dalszy gry
+Continue game
+
+Zbite bierki
+Captured pieces
+
+Czekanie na 2 gracza
+Waiting for a second player
+
+Serwery
+Servers
+
+Szukanie serwerów
+Searching for servers
+
+Chwilka…
+Wait...
